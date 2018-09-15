@@ -1,0 +1,12 @@
+Type,Reserved (KB),Reserved (MB),Committed (KB), Committed (MB),Notes
+Java Heap,4194304,4096,4194304,4096,
+Class,1126179,1099,89251,87,
+Thread,1605280,1567,1605280,1567,
+Code,257380,251,46780,45,
+GC,38278,37,38278,37,
+Compiler,251,0,251,0,
+Internal,11874,11,11874,11,
+Symbol,18989,18,18989,18,
+Native Memory Tracking,4330,4,4330,4,
+Arena Chunk,2937,2,2937,2,
+Unknown,66056,64,66056,64,

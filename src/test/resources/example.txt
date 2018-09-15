@@ -1,0 +1,49 @@
+10269:
+
+Native Memory Tracking:
+
+Total: reserved=7325859KB, committed=6078331KB
+-                 Java Heap (reserved=4194304KB, committed=4194304KB)
+                            (mmap: reserved=4194304KB, committed=4194304KB)
+
+-                     Class (reserved=1126179KB, committed=89251KB)
+                            (classes #16931)
+                            (malloc=1827KB #22810)
+                            (mmap: reserved=1124352KB, committed=87424KB)
+
+-                    Thread (reserved=1605280KB, committed=1605280KB)
+                            (thread #1529)
+                            (stack: reserved=1598432KB, committed=1598432KB)
+                            (malloc=5057KB #7653)
+                            (arena=1792KB #3057)
+
+-                      Code (reserved=257380KB, committed=46780KB)
+                            (malloc=7780KB #10694)
+                            (mmap: reserved=249600KB, committed=39000KB)
+
+-                        GC (reserved=38278KB, committed=38278KB)
+                            (malloc=25982KB #430)
+                            (mmap: reserved=12296KB, committed=12296KB)
+
+-                  Compiler (reserved=251KB, committed=251KB)
+                            (malloc=121KB #1112)
+                            (arena=131KB #3)
+
+-                  Internal (reserved=11874KB, committed=11874KB)
+                            (malloc=11842KB #58437)
+                            (mmap: reserved=32KB, committed=32KB)
+
+-                    Symbol (reserved=18989KB, committed=18989KB)
+                            (malloc=15721KB #161479)
+                            (arena=3268KB #1)
+
+-    Native Memory Tracking (reserved=4330KB, committed=4330KB)
+                            (malloc=150KB #1617)
+                            (tracking overhead=4180KB)
+
+-               Arena Chunk (reserved=2937KB, committed=2937KB)
+                            (malloc=2937KB)
+
+-                   Unknown (reserved=66056KB, committed=66056KB)
+                            (mmap: reserved=66056KB, committed=66056KB)
+
